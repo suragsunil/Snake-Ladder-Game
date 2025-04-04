@@ -28,17 +28,6 @@ A modern, single-player implementation of the classic Snake and Ladder board gam
 
 ---
 
-## 📸 Screenshots
-
-- **Start Page**  
-  *(Insert image URL here)*
-- **Game Board**  
-  *(Insert image URL here)*
-
-*(Replace placeholder URLs with actual screenshots of your app.)*
-
----
-
 ## ⚙️ Installation
 
 ### Prerequisites
